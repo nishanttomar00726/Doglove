@@ -43,7 +43,7 @@
   transform: rotate(10deg);
 }
 
-@media (max-width:900px) {
+@media (max-width:1200px) {
   .iphone {
     transform: rotate(0);
   }
@@ -54,13 +54,11 @@
   margin-top: 70px;
   text-align: center;
   font-size: 50px;
-  padding: 5% 15%;
+  padding: 2% 15%;
   line-height: 1.5;
 }
 
-.butt {
-  margin-top: 20px;
-}
+
 
 
 /* Second division (Propperties) */
