@@ -1,0 +1,144 @@
+/* NavBar */
+
+.font {
+  color: #393e46;
+  font-size: 2.5rem;
+  display: inline-block;
+  padding-top: .3125rem;
+  padding-bottom: .3125rem;
+  margin-right: 1rem;
+  margin-left: 1rem;
+
+}
+.space{
+  margin-left: 60%;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-link {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 12px;
+}
+
+/* first division */
+
+.first {
+  background-color: #8ccbbe;
+  width: 100%;
+  text-align: center;
+}
+
+.iphone {
+  margin-top: 20px;
+  height: 500px;
+  width: 250px;
+  margin-bottom: 20px;
+  transform: rotate(10deg);
+}
+
+@media (max-width:900px) {
+  .iphone {
+    transform: rotate(0);
+  }
+}
+
+.main {
+  position: relative;
+  margin-top: 70px;
+  text-align: center;
+  font-size: 50px;
+  padding: 5% 15%;
+  line-height: 1.5;
+}
+
+.butt {
+  margin-top: 20px;
+}
+
+
+/* Second division (Propperties) */
+
+.second {
+  background-color: #f9d56e;
+}
+
+.easy {
+  border-radius: 80%;
+  height: 80px;
+  width: 80px;
+  padding-bottom: 5px;
+}
+
+.features {
+  text-align: center;
+  padding: 7% 10%;
+}
+
+/* division 3:  testimonials*/
+.test-head {
+  line-height: 1.5;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.testimonials {
+  text-align: center;
+  background-color: #8ccbbe;
+}
+
+.testimonial-dog {
+  border-radius: 100%;
+  height: 70px;
+  width: 70px;
+  margin: 5px;
+}
+
+.carousel-item {
+  padding: 5% 15%;
+}
+
+.press {
+  text-align: center;
+}
+
+.testimonial-image {
+  height: 70px;
+  width: 200px;
+  margin: 1.8rem;
+}
+
+/* fourth division */
+
+.pricing {
+  background-color: #f9d56e;
+  padding: 2% 10%;
+  text-align: center;
+}
+
+.modi {
+  padding: 2% 10%;
+}
+
+/* fifth division */
+.cta {
+  background-color: #8ccbbe;
+  text-align: center;
+  padding: 3% 10%;
+}
+
+/* sixth division */
+#footer {
+  background-color: #f9d56e;
+  text-align: center;
+}
+
+.icon {
+  padding: 1% 2%;
+}
